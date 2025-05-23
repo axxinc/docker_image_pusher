@@ -3,6 +3,7 @@
 #homeassistant/home-assistant:latest
 #jellyfin/jellyfin:latest
 #linuxserver/qbittorrent
-iyuucn/iyuuplus-dev:latest
+#iyuucn/iyuuplus-dev:latest
+tencentcom/tencentyun-coscmd
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
