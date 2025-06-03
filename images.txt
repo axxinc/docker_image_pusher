@@ -4,6 +4,7 @@
 #jellyfin/jellyfin:latest
 #linuxserver/qbittorrent
 #iyuucn/iyuuplus-dev:latest
-tencentcom/tencentyun-coscmd
+#tencentcom/tencentyun-coscmd
+jxxghp/moviepilot
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
