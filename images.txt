@@ -5,6 +5,7 @@
 #linuxserver/qbittorrent
 #iyuucn/iyuuplus-dev:latest
 #tencentcom/tencentyun-coscmd
-jxxghp/moviepilot
+#jxxghp/moviepilot
+jxxghp/moviepilot-v2:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
