@@ -8,7 +8,9 @@
 #jxxghp/moviepilot
 #jxxghp/moviepilot-v2:latest
 
-golang:latest
-docker.io/golang:alpine
+#golang:latest
+#docker.io/golang:alpine
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+nginx:1.29.5-alpine3.23-slim
+nginx:1.29.5
